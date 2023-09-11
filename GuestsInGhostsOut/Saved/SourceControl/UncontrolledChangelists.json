@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/9/X0/D0MHAEU99JOJBRUOIW6MCL.uasset"
+=======
 				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_Computer.uasset",
 				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/2/QN/CFHY5NA7IKVRLXH0D6AUO3.uasset",
 				"C:/Users/seaba/Documents/Github/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_GIGO_GameMode.uasset",
@@ -68,6 +71,7 @@
 				"C:/Users/ianth/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_GIGO_GameInstance.uasset",
 				"C:/Users/ianth/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/3/VO/JRKPQF1IQFK7GS2JAUXFJ9.uasset",
 				"C:/Users/ianth/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/3/1Q/OPZTSNAKM6RP5OBMW42O1W.uasset"
+>>>>>>> c02b9c533617292ff0c498becce5cc8f1f7bb265
 			]
 		}
 	]
