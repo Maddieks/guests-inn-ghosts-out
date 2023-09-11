@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_Computer.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/2/QN/CFHY5NA7IKVRLXH0D6AUO3.uasset",
 				"C:/Users/seaba/Documents/Github/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_GIGO_GameMode.uasset",
 				"C:/Users/seaba/Documents/Github/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_Enemy.uasset",
 				"C:/Users/seaba/Documents/Github/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_Room.uasset",
