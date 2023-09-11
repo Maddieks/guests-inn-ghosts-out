@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/christian.johnson/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Coffin_Chair.uasset",
 				"C:/Users/christian.johnson/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Materials/Desk_Texture/Desk_Texture.uasset",
 				"C:/Users/christian.johnson/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Desk.uasset",
@@ -1966,6 +1967,13 @@
 				"C:/Users/seaba/Documents/Github/guests-inn-ghosts-out/GuestsInGhostsOut/Content/-StartingContent/StarterContent/Props/SM_Shelf.uasset",
 				"C:/Users/seaba/Documents/Github/guests-inn-ghosts-out/GuestsInGhostsOut/Content/-StartingContent/StarterContent/Props/SM_Stairs.uasset",
 				"C:/Users/seaba/Documents/Github/guests-inn-ghosts-out/GuestsInGhostsOut/Content/-StartingContent/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+=======
+				"C:/Users/ianth/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_GIGO_GameMode.uasset",
+				"C:/Users/ianth/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_EnemySpawnData.uasset",
+				"C:/Users/ianth/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_GIGO_GameInstance.uasset",
+				"C:/Users/ianth/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/3/VO/JRKPQF1IQFK7GS2JAUXFJ9.uasset",
+				"C:/Users/ianth/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/3/1Q/OPZTSNAKM6RP5OBMW42O1W.uasset"
+>>>>>>> programming
 			]
 		}
 	]
