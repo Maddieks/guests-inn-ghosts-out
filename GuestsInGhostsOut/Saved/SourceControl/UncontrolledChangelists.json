@@ -7,7 +7,9 @@
 			"files": [
 				"C:/Users/ianth/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Levels/HotelMap1.umap",
 				"C:/Users/ianth/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_Room.uasset",
-				"C:/Users/ianth/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_JohnGuest.uasset"
+				"C:/Users/ianth/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_JohnGuest.uasset",
+				"C:/Users/ianth/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Widgets/WG_MainMenu.uasset",
+				"C:/Users/ianth/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Widgets/WG_LevelSelect.uasset"
 			]
 		}
 	]
