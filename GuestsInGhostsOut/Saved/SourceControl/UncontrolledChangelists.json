@@ -5,6 +5,49 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Poltergiest_Character/Material/lambert2.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Guest_Character/Textures/Guest_Base_LP_Guest_Base_BaseColor.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Guest_Character/Guest_SK.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Guest_Character/Guest_SK_PhysicsAsset.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Guest_Character/Guest_SK_Skeleton.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Poltergiest_Character/Textures/GhostLowPoly_lambert1_BaseColor.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Poltergiest_Character/Poltergiest_SK.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Poltergiest_Character/Poltergiest_SK_PhysicsAsset.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Poltergiest_Character/Poltergiest_SK_Skeleton.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Poltergiest_Character/Animations/Anim_Idle.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/D/SM/IDYF0RC6QRP6QN151014NJ.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/A/8O/WX9LSR4IGKLAAOORG0NU4N.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Spirit_Character/GhostLowPoly_lambert1_BaseColor.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Spirit_Character/lambert3.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Spirit_Character/lambert4.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Spirit_Character/Rat_LP_lambert2_BaseColor.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Spirit_Character/Spirit_SK.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Spirit_Character/Spirit_SK_PhysicsAsset.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Spirit_Character/Spirit_SK_Skeleton.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Banshee_Character/Banshee_SK.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Banshee_Character/Banshee_SK_PhysicsAsset.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Banshee_Character/Banshee_SK_Skeleton.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Banshee_Character/GhostLowPoly_lambert1_BaseColor.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Banshee_Character/jaw.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Banshee_Character/lambert4.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Banshee_Character/lpdeer5_lambert2_BaseColor.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Banshee_Character/lpdeer5_lambert4_BaseColor.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Banshee_Character/Skull1.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Banshee_Character/Material/jaw.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Banshee_Character/Material/lambert4.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Banshee_Character/Material/Skull1.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Banshee_Character/Texture/GhostLowPoly_lambert1_BaseColor.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Banshee_Character/Texture/lpdeer5_lambert2_BaseColor.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Banshee_Character/Texture/lpdeer5_lambert4_BaseColor.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Spirit_Character/Material/lambert3.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Spirit_Character/Material/lambert4.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Spirit_Character/Texture/GhostLowPoly_lambert1_BaseColor.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Spirit_Character/Texture/Rat_LP_lambert2_BaseColor.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Spirit_Character/Body_Rig/Ghost_Body_SK.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Poltergiest_Character/GhostLowPoly_lambert1_BaseColor.uasset",
+				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Poltergiest_Character/lambert2.uasset"
+=======
 				"C:/Users/seaba/Documents/Github/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_Computer.uasset",
 				"C:/Users/seaba/Documents/Github/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_GuestElevator.uasset",
 				"C:/Users/seaba/Documents/Github/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_Guest.uasset",
@@ -55,6 +98,7 @@
 				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/A/MB/Z1B5GBLUP382X5FP8LMWEL.uasset",
 				"C:/Users/seaba/Documents/Github/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/elevator_unwrapped.uasset",
 				"C:/Users/seaba/Documents/Github/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/lambert14.uasset"
+>>>>>>> menus-and-sprinting-sf
 			]
 		}
 	]
