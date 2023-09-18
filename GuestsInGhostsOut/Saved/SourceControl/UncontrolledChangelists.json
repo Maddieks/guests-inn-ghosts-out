@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
+				"C:/Users/ianth/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Levels/HotelMap1.umap",
+				"C:/Users/ianth/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_Room.uasset",
+				"C:/Users/ianth/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_JohnGuest.uasset",
+				"C:/Users/ianth/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Widgets/WG_MainMenu.uasset",
+				"C:/Users/ianth/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Widgets/WG_LevelSelect.uasset"
+=======
 				"C:/Users/seaba/Documents/Github/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_Enemy.uasset",
 				"C:/Users/seaba/Documents/Github/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_Banshee.uasset",
 				"C:/Users/seaba/Documents/Github/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/1/VK/3D3ZRD7FHQ69LH3UACOEN2.uasset",
@@ -67,6 +74,7 @@
 				"C:/Users/seaba/Documents/Github/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Spirit_Character/Spirit_SK_PhysicsAsset.uasset",
 				"C:/Users/seaba/Documents/Github/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Spirit_Character/Spirit_SK_Skeleton.uasset",
 				"C:/Users/seaba/Documents/Github/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Ghosts/Poltergiest_Character/Material/SpiritJawMat.uasset"
+>>>>>>> programming
 			]
 		}
 	]
