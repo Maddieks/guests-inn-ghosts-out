@@ -5,7 +5,31 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/christian.johnson/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Levels/HotelMap2.umap"
+				"C:/Users/christian.johnson/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Levels/HotelMap2.umap",
+				"C:/Users/christian.johnson/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/TV.uasset",
+				"C:/Users/christian.johnson/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/LP_OldTV_V3.uasset",
+				"C:/Users/christian.johnson/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Materials/TV/TV.uasset",
+				"C:/Users/christian.johnson/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Desk.uasset",
+				"C:/Users/christian.johnson/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/standardSurface7.uasset",
+				"C:/Users/christian.johnson/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/standardSurface5.uasset",
+				"C:/Users/christian.johnson/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/standardSurface4.uasset",
+				"C:/Users/christian.johnson/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/standardSurface3.uasset",
+				"C:/Users/christian.johnson/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/standardSurface2.uasset",
+				"C:/Users/christian.johnson/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/standardSurface1.uasset",
+				"C:/Users/christian.johnson/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/ReceptionDesk.uasset",
+				"C:/Users/christian.johnson/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/lambert7.uasset",
+				"C:/Users/christian.johnson/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/lambert6.uasset",
+				"C:/Users/christian.johnson/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/lambert5.uasset",
+				"C:/Users/christian.johnson/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/lambert1.uasset",
+				"C:/Users/christian.johnson/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/lambert9.uasset",
+				"C:/Users/christian.johnson/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/lambert10.uasset",
+				"C:/Users/christian.johnson/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Couch1.uasset",
+				"C:/Users/christian.johnson/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Chandelier1.uasset",
+				"C:/Users/christian.johnson/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Materials/Phone/Phone_Base.uasset",
+				"C:/Users/christian.johnson/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Materials/Phone/Phone_Handle.uasset",
+				"C:/Users/christian.johnson/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/LPphone.uasset",
+				"C:/Users/christian.johnson/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/LPphoneBase.uasset",
+				"C:/Users/christian.johnson/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/LP_Phone.uasset"
 			]
 		}
 	]
