@@ -5,68 +5,35 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 5b774e89659361f515c18050e066004b06196fe0
-=======
->>>>>>> dev
-				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/9/L1/B95V3QTAPK2IUGVU59MTYG.uasset",
-				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Banshee_Character/Animations/Anim_Banshee_Idle.uasset",
-				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Banshee_Character/Animations/Anim_Banshee_Scream.uasset",
-				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Banshee_Character/Animations/Anim_Banshee_Vanish.uasset",
-				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Banshee_Character/Animations/Anim_Banshee_Walk.uasset",
-				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Guest_Character/Animations/Anim_Guest_Idle.uasset",
-				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/5/ID/3IAJ2D2TEZXX558IVJ286A.uasset",
-				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Guest_Character/Animations/Anim_Guest_Run.uasset",
-				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Guest_Character/Animations/Anim_Guest_Walk.uasset",
-				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Spirit_Character/Animations/Anim_Spirit_Attack.uasset",
-				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Spirit_Character/Animations/Anim_Spirit_Idle.uasset",
-				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/A/GR/H5B1Y1NHI8KGQDUG0VZNBF.uasset",
-				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Spirit_Character/Animations/Anim_Spirit_Vanish.uasset",
-				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Spirit_Character/Animations/Anim_Spirit_Walk.uasset",
-				"C:/Users/evanb/OneDrive/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/C/ZL/R8K561SDPMS20CIZII8K3K.uasset"
-<<<<<<< HEAD
-=======
-				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Levels/HotelMap1.umap",
-				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Materials/CameraMat.uasset",
 				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_Banshee.uasset",
-				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_Guest.uasset",
-				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_GuestElevator.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Animation/Banshee_BS.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Animation/Guest_BS.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Animation/Poltergeist_BS.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Animation/Spirit_BS.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Ghosts/Banshee_Character/Animations/Banshee_ABP.uasset",
 				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/1/VK/3D3ZRD7FHQ69LH3UACOEN2.uasset",
-				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/7/FZ/MP72RKDHEK5D11RPOXXIP5.uasset",
-				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/3/VO/JRKPQF1IQFK7GS2JAUXFJ9.uasset",
-				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/3/1Q/OPZTSNAKM6RP5OBMW42O1W.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Ghosts/Banshee_Character/Animations/Anim_Banshee_Idle.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Ghosts/Banshee_Character/Animations/Anim_Banshee_Scream.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Ghosts/Spirit_Character/Animations/Spirit_ABP.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_Spirit.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Ghosts/Banshee_Character/Animations/Anim_Banshee_Vanish.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_Enemy.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Spirit_Character/Animations/Anim_Spirit_Vanish.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Banshee_Character/Animations/Anim_Banshee_Vanish.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Banshee_Character/Animations/Anim_Banshee_Scream.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Spirit_Character/Animations/Anim_Spirit_Walk.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Spirit_Character/Animations/Anim_Spirit_Attack.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Banshee_Character/Animations/Anim_Banshee_Walk.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Spirit_Character/Animations/Anim_Spirit_Idle.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Banshee_Character/Animations/Anim_Banshee_Idle.uasset",
 				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/1/NQ/MHOJOQP5ULC4U8V3RGYEAL.uasset",
 				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/2/0X/LJT3493YNSZKQBRSYRXXJD.uasset",
-				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/bed_SP_2.uasset",
-				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Elevator/Elevator_Room.uasset",
-				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_ElevatorDoor.uasset",
-				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/A/MB/Z1B5GBLUP382X5FP8LMWEL.uasset",
-				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Elevator/Elevator_Frame.uasset",
-				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Elevator/Elevator_Door.uasset",
-				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Elevator/Elevator_Doors.uasset",
-				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Elevator_Frame.uasset",
-				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Elevator_Doors.uasset",
-				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Elevator/Elevator_Button.uasset",
-				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Elevator_Button.uasset",
-				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Elevator/Fixed_Elevator_Button_Panel.uasset",
-				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Elevator/Fixed_Elevator_Floor_Plate.uasset",
-				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_ServiceElevator.uasset",
-				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_ElevatorButton.uasset",
-				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/6/KH/6S6BORBN7N5KIO53ZFJPW3.uasset",
-				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Elevator/Elevator.uasset",
-				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Elevator.uasset",
-				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_LobbyButton.uasset",
-				"C:/Users/ianth/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Levels/HotelMap3.umap",
-				"C:/Users/madison.k.shields/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Levels/HotelMap1.umap"
->>>>>>> dev
-<<<<<<< HEAD
-=======
->>>>>>> 5b774e89659361f515c18050e066004b06196fe0
-=======
->>>>>>> dev
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/3/1Q/OPZTSNAKM6RP5OBMW42O1W.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/3/VO/JRKPQF1IQFK7GS2JAUXFJ9.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/9/L1/B95V3QTAPK2IUGVU59MTYG.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/A/GR/H5B1Y1NHI8KGQDUG0VZNBF.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Guest_Character/Animations/Guest_BS.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Guest_Character/Animations/Guest_ABP.uasset"
 			]
 		}
 	]
