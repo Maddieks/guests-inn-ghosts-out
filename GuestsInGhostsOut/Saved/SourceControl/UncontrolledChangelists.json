@@ -7,7 +7,6 @@
 			"files": [
 				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_ElevatorDoor.uasset",
 				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_Banshee.uasset",
-				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/1/VK/3D3ZRD7FHQ69LH3UACOEN2.uasset",
 				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/6/KH/6S6BORBN7N5KIO53ZFJPW3.uasset",
 				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/7/FZ/MP72RKDHEK5D11RPOXXIP5.uasset",
 				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/A/MB/Z1B5GBLUP382X5FP8LMWEL.uasset",
@@ -23,7 +22,11 @@
 				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/3/VO/JRKPQF1IQFK7GS2JAUXFJ9.uasset",
 				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/C/ZL/R8K561SDPMS20CIZII8K3K.uasset",
 				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_JohnGuest.uasset",
-				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Levels/HotelMap1.umap"
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Levels/HotelMap1.umap",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Modular_Set/Models/HalfBath_HalfRoom_Doorway.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_Enemy.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Models/Guest_Character/Animations/Guest_ABP.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/1/VK/3D3ZRD7FHQ69LH3UACOEN2.uasset"
 			]
 		}
 	]
