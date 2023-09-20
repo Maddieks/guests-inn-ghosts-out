@@ -5,9 +5,25 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/ianth/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Levels/HotelMap1.umap",
-				"C:/Users/ianth/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Widgets/WG_HowToPlay.uasset",
-				"C:/Users/ianth/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_Door.uasset"
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_ElevatorDoor.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_Banshee.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/1/VK/3D3ZRD7FHQ69LH3UACOEN2.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/6/KH/6S6BORBN7N5KIO53ZFJPW3.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/7/FZ/MP72RKDHEK5D11RPOXXIP5.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/A/MB/Z1B5GBLUP382X5FP8LMWEL.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_GIGO_GameMode.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_GIGO_GameInstance.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_Guest.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Widgets/WG_Pause.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Widgets/WG_LevelSelect.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Widgets/WG_MainMenu.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/1/NQ/MHOJOQP5ULC4U8V3RGYEAL.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/2/0X/LJT3493YNSZKQBRSYRXXJD.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/3/1Q/OPZTSNAKM6RP5OBMW42O1W.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/3/VO/JRKPQF1IQFK7GS2JAUXFJ9.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/__ExternalActors__/Levels/FirstPersonMap/C/ZL/R8K561SDPMS20CIZII8K3K.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Blueprints/BP_JohnGuest.uasset",
+				"C:/Users/sebastian.finley/Documents/GitHub/guests-inn-ghosts-out/GuestsInGhostsOut/Content/Levels/HotelMap1.umap"
 			]
 		}
 	]
